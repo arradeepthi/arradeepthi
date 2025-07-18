@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepthi</h1>
-<h3 align="center">Computer Science Engineering Student | Aspiring Full Stack Developer | </h3>
+<h3 align="center">Computer Science Engineering Student | Aspiring Full Stack Developer </h3>
 
 ---
 
