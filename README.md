@@ -13,9 +13,9 @@
 
 ### 💻 Tech Stack:
 - **Languages**: Java, JavaScript, HTML, CSS  
-- **Frontend**: Bootstrap, React (learning)  
+- **Frontend**: Bootstrap, React  
 - **Tools**: Git, VS Code 
-- **Databases**: MongoDB (learning)  
+- **Databases**: MongoDB, MySQL
 
 ### 📫 Let's Connect:
 - 🌐 Portfolio: [arradeepthi.github.io](https://arradeepthi.github.io)  
